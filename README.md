@@ -7,8 +7,10 @@ I use GitHub mostly to store and synchronize my work.<br>
 But I have a few non-popular hobby open source projects:
  - [Egitim101](https://egitim101.com): Online Education Platform
  - [Sikayetvar](https://selimturan.com.tr/ref/sikayetvar/index.html): Customer Satisfaction
+ - [AngelsMarmaris](https://www.angelsmarmaris.com.tr): Angel's Marmaris
+ - [Pollygun](https://poligun.com.tr/): Pollygun
  - [IşıkFX](https://www.isikmenkul.com): Stock Transactions
- - [QbigInvest](https://github.com/StatuCo/prototyping): Stock Transactions
+ - [QbigInvest](https://qbiginvest.com): Stock Transactions
 
 ### .text
 My Instagram is [@mse1im](https://instagram.com/mse1im).<br>
