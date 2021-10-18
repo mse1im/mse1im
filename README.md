@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @mse1im
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### .init
+Hi, I'm Mehmet Selim Turan. Im working as a Front-End Developer at BilgeAdam Technology since March 2021.<br>
+Some of my professional works is listed on my [portfolio](https://selimturan.com.tr/ref/).
 
-<!---
-mse1im/mse1im is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### .code
+I use GitHub mostly to store and synchronize my work.<br>
+But I have a few non-popular hobby open source projects:
+ - [Egitim101](https://egitim101.com): Online Education Platform
+ - [Sikayetvar](https://selimturan.com.tr/ref/sikayetvar/index.html): Customer Satisfaction
+ - [IşıkFX](https://www.isikmenkul.com): Stock Transactions
+ - [QbigInvest](https://github.com/StatuCo/prototyping): Stock Transactions
+
+### .text
+My Instagram is [@mse1im](https://instagram.com/mse1im).<br>
+My Twitter is [@mse1im](https://twitter.com/mse1im).
+
+### .contact
+You can reach me at [mehmet@selimturan.com.tr](mailto:mehmet@selimturan.com.tr).
