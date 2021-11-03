@@ -7,7 +7,6 @@ I use GitHub mostly to store and synchronize my work.<br>
 But I have a few non-popular hobby open source projects:
 
  - [Egitim101](https://egitim101.com)
- - [Sikayetvar](https://selimturan.com.tr/ref/sikayetvar/index.html)
  - [AngelsMarmaris](https://www.angelsmarmaris.com.tr)
  - [Pollygun](https://poligun.com.tr/)
  - [IşıkFX](https://www.isikmenkul.com)
