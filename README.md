@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Front-End Developer in Demirören Media<br>🌱 I’m currently learning React Native<br>⚡ Fun fact
+🔭 I’m Front-End Developer in Demirören Media<br>🌱 I’m currently learning React Native<br>
 
 
 ## 🌐 Socials:
